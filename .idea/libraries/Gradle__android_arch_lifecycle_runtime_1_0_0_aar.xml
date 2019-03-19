@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.lifecycle:runtime:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../likewise-open/SPREADTRUM/chrison.chai/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3830c1e656af0dd67d21d805dd1698cb/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../../likewise-open/SPREADTRUM/chrison.chai/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3830c1e656af0dd67d21d805dd1698cb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../likewise-open/SPREADTRUM/chrison.chai/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/runtime/1.0.0/1dd0298d8c45d8dfa4d038270247327f23df7a3a/runtime-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
